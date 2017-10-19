@@ -1,0 +1,15 @@
+$the_cow = <<EOC;
+
+    $thoughts
+
+       <----->
+      <  (0)  >
+      |       |
+     < ------- >
+     o         o
+     o  0  ()  o
+    o           o
+  o o o o o o o o o
+  o o o o o o o o o
+  o o o o o o o o o
+EOC
